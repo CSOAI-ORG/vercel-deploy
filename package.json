@@ -1,5 +1,5 @@
 {
-  "name": "@csgaglobal/vercel-deploy",
+  "name": "@meok-ai-labs/vercel-deploy",
   "version": "1.0.0",
   "description": "Vercel deployment management with project configuration, deployment monitoring, and domain management.",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   "devDependencies": {
     "typescript": "^5.7.3"
   },
-  "author": "CSGA Global",
+  "author": "MEOK Labs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csga-global/mcp-servers",
+    "url": "https://github.com/meok-ai/mcp-servers",
     "directory": "packages/vercel-deploy"
   },
   "keywords": [
